@@ -14,13 +14,13 @@
 
 Размеры двери:
 
-*высота - 35мм, ширина - 44мм*
+*Высота - 35мм, ширина - 44мм*
 
 **Процесс фрезеровки двери**
 
 https://github.com/HellraidKraid/Personal-locker/assets/144485874/086fc4fd-9010-4dc9-b890-59d45be7a073
 
-### Создание индекса и кастомизация двери
+### Создание индекса
 
 *Оборудование - Лазерный гравер Trotec Speedy400 flexx*
 
@@ -29,3 +29,68 @@ https://github.com/HellraidKraid/Personal-locker/assets/144485874/086fc4fd-9010-
 *Программное обеспечение -  CorelDraw, Trotec JobControl*
 
 При помощи станка лазерной резки был изготовлен трафарет для нанесения индекса двери:
+
+![IMG_20231227_220839](https://github.com/HellraidKraid/Personal-locker/assets/144485874/dcbed977-baf8-4a90-bdef-0ab33032ce79)
+
+**Рисунок 1 - Дверь с нанесённым индексом**
+
+Так же под индексом при помощи лазерного станка были выгравированы име и фамилия изготовителя. :D
+
+### Кастомизация двери
+
+*Оборудование - Лазерный гравер Trotec Speedy400 flexx*
+
+*Материал - Ещё больше баллончиков с краской, скотч*
+
+*Программное обеспечение -  CorelDraw, Trotec JobControl, Paint*
+
+Для оформления внутренней стороны дверцы был применён исключительно творческий подход.
+Концепт оформления был вдохновлён тематикой Titanfall 2. За основу был взят арт из интернета, который был переработан в основу для нанесения гравировки.
+
+![IMG_20231028_155003](https://github.com/HellraidKraid/Personal-locker/assets/144485874/eab3af42-82a4-4532-8f0f-1e7615ff9f73)
+
+**Рисунок 2 - Арт взятый за основу**
+
+![IMG_20231028_155010](https://github.com/HellraidKraid/Personal-locker/assets/144485874/86ce9b23-8510-4067-8339-cd44cba18c59)
+
+**Рисунок 3 - Переработанный арт для нанесения гравировки на лазерном станке**
+
+![JXMyfuhp5FU](https://github.com/HellraidKraid/Personal-locker/assets/144485874/8987e34b-889c-4c6f-9b4a-5f97ed24017f)
+
+**Рисунок 4 - Готовый результат оформления внутренней части двери**
+
+## Создание дверных петель
+
+*Оборудование - 3D-принтер Prusa i3 MK3*
+
+*Материал и крепежные изделия - PLA (полилактид), болты М4 30-35мм, гайки М4, шайбы*
+
+*Программное обеспечение - PrusaSlicer*
+
+*3D-Модель - [Thingiverse](https://www.thingiverse.com/thing:2401035)*
+
+**Собранные дверные петли**
+
+![IMG_20231027_192256](https://github.com/HellraidKraid/Personal-locker/assets/144485874/9bdd6c11-c048-4e8a-ac39-42f2421937ec)
+
+**Тестирование дверных петель**
+
+https://github.com/HellraidKraid/Personal-locker/assets/144485874/c4de2899-32ed-49df-b59f-a6bb260ef644
+
+## Создание аксессуара для RFID-метки
+
+*Оборудование - 3D-принтер Prusa i3 MK3*
+
+*Материал - PLA (полилактид)*
+
+*Программное обеспечение - Rhinoceros 6, PrusaSlicer*
+*3D-модель - [Fallout Nuka Cola keychain](https://www.thingiverse.com/thing:2059192)*
+
+Аксессуар был вдохновлён тематикай Fallout.
+
+
+**Брелок для RFID метки**
+
+![IMG_20231211_163004](https://github.com/HellraidKraid/Personal-locker/assets/144485874/cf40ea7f-4562-42f6-af4a-b432389a3ade)
+![IMG_20231211_163014](https://github.com/HellraidKraid/Personal-locker/assets/144485874/c8eccef0-9571-4fc0-80ed-d93180c1d111)
+
