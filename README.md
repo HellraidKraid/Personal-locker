@@ -30,6 +30,10 @@ https://github.com/HellraidKraid/Personal-locker/assets/144485874/086fc4fd-9010-
 
 При помощи станка лазерной резки был изготовлен трафарет для нанесения индекса двери:
 
+**Изготовление трафарета индекса двери**
+
+https://github.com/HellraidKraid/Personal-locker/assets/144485874/234c3440-fe6e-4eff-932d-d1e6b2555be4
+
 ![IMG_20231227_220839](https://github.com/HellraidKraid/Personal-locker/assets/144485874/dcbed977-baf8-4a90-bdef-0ab33032ce79)
 
 **Рисунок 1 - Дверь с нанесённым индексом**
